@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnr52ZA7aZ0GZA8CoL7PtuQAAAAACAAAAAAAQZgAAAAEAACAAAABcAKLjr5CXJAI1Gc8PNKHJZdDdxPk6XRuTrqqoqsWyIQAAAAAOgAAAAAIAACAAAAAfio1VVQgcIVeljzXyMibGtvAimyZp3CreWZoLHINQPSAAAABGlFceQaW8rFmW36CcU6Q4qJ77Gm5S3bhHpG/MMOTvvkAAAABMpAKaYxcUfVFQu15Qpm8UDNvZhwUzQ7fXTOBwt6wBP3MFo2lFb+BL2nDcfasBgrNfcH3jRLHMIAaJt+ZLOZKA</EncryptedPassword>
+    <History>True|2025-09-24T14:25:14.5781948Z||;True|2025-09-24T16:21:09.6323085+03:00||;True|2025-09-24T16:15:10.2042623+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=db28046.databaseasp.net%3b Database=db28046%3b User Id=db28046%3b Password=nF=8+t2HZ#a4%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ChatBot.Data.AppDbContext.ApplicationDbContext">
+      <Value>Server=db28046.databaseasp.net%3b Database=db28046%3b User Id=db28046%3b Password=nF=8+t2HZ#a4%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

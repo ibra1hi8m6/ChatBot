@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yellow.ai\\FullStack-ChatBot\\ChatBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D599B131-565E-4BB1-B1F7-A399C081D3AE}|ChatBot.APIs\\ChatBot.APIs.csproj|d:\\yellow.ai\\fullstack-chatbot\\chatbot\\chatbot.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D599B131-565E-4BB1-B1F7-A399C081D3AE}|ChatBot.APIs\\ChatBot.APIs.csproj|solutionrelative:chatbot.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\yellow.ai\\FullStack-ChatBot\\ChatBot\\ChatBot.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatBot.APIs\\appsettings.json",
+              "ToolTip": "D:\\yellow.ai\\FullStack-ChatBot\\ChatBot\\ChatBot.APIs\\appsettings.json",
+              "RelativeToolTip": "ChatBot.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T13:10:47.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

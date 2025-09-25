@@ -1,0 +1,8 @@
+# Visual Studio and build output
+[Bb]in/
+[Oo]bj/
+
+# Your specific sensitive files
+/ChatBot/ChatBot.APIs/appsettings.json
+/ChatBot/ChatBot.APIs/appsettings.Development.json
+/ChatBot/ChatBot.APIs/appsettings.Production.json
